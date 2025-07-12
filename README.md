@@ -18,7 +18,7 @@ A Flask-based web application that classifies handwritten digits using a trained
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/digit-recognizer.git
+   git clone https://github.com/Sree-devi19/Digit-Classification
    cd digit-recognizer
 
 2. Install dependencies:
